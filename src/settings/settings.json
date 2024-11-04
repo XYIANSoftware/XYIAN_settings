@@ -1,0 +1,202 @@
+{
+  //!!! CONTROLS ALL WORKSAPCE SETTINGS - DANGER ZONE !!!!
+  //!!! PLEASE USE CAUTION IF MODIFYING THIS FILE !!!!
+  "git.enabled": false,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.jsxSingleQuote": true,
+  "editor.formatOnPaste": true,
+  "notebook.formatOnSave.enabled": false,
+  "less.format.enable": false,
+  "auto-rename-tag.activationOnLanguage": ["tsx", "*"],
+  "window.zoomLevel": -2,
+  "git.autofetch": true,
+  "git.autoRepositoryDetection": true,
+  "git.decorations.enabled": true,
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.showPushSuccessNotification": true,
+  "git.confirmForcePush": true,
+  "nxConsole.showNodeVersionOnStartup": false,
+  "editor.bracketPairColorization.enabled": true,
+  "autoimport.showNotifications": false,
+  "jsdoc-generator.descriptionPlaceholder": "@YDS_TEAM *Description or message goes here",
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.editor.closeOnFileDelete": true,
+  "git.allowForcePush": false,
+  "indentRainbow.errorColor": "rgba(255, 0, 0,0.3)",
+  "indentRainbow.tabmixColor": "rgba(0, 255, 225,0.4)",
+  "indentRainbow.colors": [
+    "rgba(0, 0, 85, 0.3)",
+    "rgba(10, 0, 180, 0.15)",
+    "rgba(16, 0, 245, 0.15)",
+    "rgba(98, 0, 98, 0.15)",
+    "rgba(196, 0, 196, 0.18)",
+    "rgba(245, 0, 245, 0.2)",
+    "rgba(128, 128, 128, 0.1)",
+    "rgba(168, 168, 168, 0.1)",
+    "rgba(208, 208, 208, 0.1)",
+    "rgba(144, 238, 144, 0.2)",
+    "rgba(96, 202, 96, 0.2)",
+    "rgba(72, 184, 72, 0.2)"
+  ],
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#000000",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": true
+    },
+    {
+      "tag": "//",
+      "color": "#ceabff",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#ee00ff",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "devNote",
+      "color": "#1703fc",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#bfbabd",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Kyle",
+      "color": "#07e1e8",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#000000",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Elliot",
+      "color": "#a11ed9",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#000000",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Henry",
+      "color": "#ff00a2",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#000000",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Roger",
+      "color": "#ff0000",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#ffffff",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Sanjay",
+      "color": "#ffffff",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#1100a8",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Venkata",
+      "color": "#00a854",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#434544",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Bhanu",
+      "color": "#246a70",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#ffffff",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Sajeev",
+      "color": "#f5a607",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#8d92c9",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Werner",
+      "color": "#ffffff",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#ff0000",
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "workbench.colorCustomizations": {
+    "editorLineNumber.foreground": "#2e8b66",
+    "editorGutter.background": "#00000026",
+    "editor.findMatchHighlightBorder": "#ff0000",
+    "editor.findMatchHighlightBackground": "#000000c9",
+    "editor.lineHighlightBorder": "#00ff2f35",
+    "editor.lineHighlightBackground": "#b1bf1909",
+    "activityBar.activeBorder": "#ff0000",
+    "activityBar.activeBackground": "#000000",
+    "editor.snippetFinalTabstopHighlightBorder": "#00ff2f",
+    "editor.snippetTabstopHighlightBorder": "#00ff2f",
+    "symbolIcon.snippetForeground": "#00ff2f",
+    "editorGutter.foldingControlForeground": "#ffffff",
+    "scrollbar.shadow": "#10862265",
+    "widget.shadow": "#ff000053",
+    "scrollbarSlider.hoverBackground": "#26dc413b",
+    "editorCursor.foreground": "#ffffff",
+    "editor.hoverHighlightBackground": "#40431e",
+    "scrollbarSlider.background": "#ffffff28",
+    "scrollbarSlider.activeBackground": "#ff000040"
+  }
+}
