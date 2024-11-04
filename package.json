@@ -3,7 +3,7 @@
   "displayName": "Visual Studio Settings from XYIAN Software",
   "publisher": "XYIAN",
   "description": "Core XYS functionality, settings, keybindings and commands.  - intended to be used in tandem with XYIAN Extension Pack (and xyian-snippets) ",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.85.0"
   },
